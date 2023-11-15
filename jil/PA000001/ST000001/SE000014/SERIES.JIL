@@ -1,0 +1,54 @@
+#
+# Jive Image List for series: 1.2.840.113619.2.312.6945.3745238.12022.1699010822.113
+#
+<JIL version="1.0"/>
+<ImageList>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000001"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000002"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000003"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000004"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000005"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000006"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000007"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000008"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000009"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000010"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000011"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000012"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000013"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000014"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000015"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000016"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000017"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000018"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000019"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000020"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000021"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000022"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000023"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000014/IM000024"/>
+</ImageList>

@@ -1,0 +1,36 @@
+#
+# Jive Image List for series: 1.2.840.113619.2.312.6945.3745238.12022.1699010822.98
+#
+<JIL version="1.0"/>
+<ImageList>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000001"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000002"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000003"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000004"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000005"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000006"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000007"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000008"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000009"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000010"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000011"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000012"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000013"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000014"/>
+    <Reference type="relative"
+               file="../../../../DICOM/PA000001/ST000001/SE000002/IM000015"/>
+</ImageList>
